@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.logo {
+  width: auto;
+  display: block;
+}
 
 .App-content {
   background-color: #282c34;
